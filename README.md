@@ -1,3 +1,29 @@
+# Smart Bin (Smart Recycling Web App)
+
+A web dashboard for a smart recycling bin system. Users can register/login, view their points and recycling activity, and receive notifications. Admins can view overall activity and manage notifications.
+
+## Features
+- User registration & login (email verification)
+- User dashboard: points, profile, activity/history
+- Admin dashboard (role-based access)
+- Firebase integration (Auth + Database)
+- Responsive UI
+
+## Tech Stack
+- React (Create React App)
+- Firebase Authentication
+- Firebase Realtime Database / Firestore (whichever you used)
+
+## Getting Started (Local Setup)
+
+### Prerequisites
+- Node.js (LTS recommended)
+- npm
+
+### Install & Run
+```bash
+npm install
+npm start
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
